@@ -1,0 +1,6 @@
+@BaiTapThucHanhAPI_HostAddress = http://localhost:5153
+
+GET {{BaiTapThucHanhAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
